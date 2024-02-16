@@ -1,0 +1,211 @@
+
+*{
+    margin: 0px;
+    padding: 0px;
+}
+
+.logo h2{
+    background-color: rgb(39, 38, 38);
+    color: white;
+    text-align: center;
+    padding-top: 40px;
+    font-family: cinzel;
+    height: 80px;
+    width: 100%;
+}
+
+.navbar{
+   background-color: rgb(73, 72, 72);
+    height: 60px;
+    width: 100%;
+}
+
+.navbar ul{
+    overflow: auto;
+}
+
+.navbar li{
+    list-style: none;
+    float: left;
+    margin-top: 20px;
+}
+
+.navbar li a{
+    color: white;
+    text-decoration: none;
+    padding-left: 290px;
+    font-size: 20px;
+}
+
+.mid{
+    margin-left: 80px;
+    margin-top: 50px;
+}
+
+.mid h2{
+    font-family: cinzel;
+    font-size: 30px;
+}
+
+.mid p{
+    margin-top: 10px;
+    font-size: 24px;
+}
+
+.heading2 h2{
+    margin-top: 50px;
+}
+
+.image1 img{
+    height: 133px;
+    margin-top: 20px;
+    width: 135px;
+    border-radius: 50%;
+}
+
+.image1 h3{
+    font-family: cinzel;
+    margin-left: 190px;
+    margin-top: -110px;
+    font-size: 28px;
+}
+
+.image1 p{
+    margin-left: 195px;
+}
+
+.image2 img{
+    height: 133px;
+    margin-top: 55px;
+    width: 135px;
+    border-radius: 50%;
+}
+
+.image2 h3{
+    font-family: cinzel;
+    margin-left: 190px;
+    margin-top: -110px;
+    font-size: 28px;
+}
+
+.image2 p{
+    margin-left: 225px;
+}
+
+.heading3 h2{
+    font-family: cinzel;
+    margin-top: 90px;
+}
+
+.services-points{
+    margin-left: 20px;
+    margin-top: 30px;
+}
+
+.services-points li{
+    font-size: 24px;
+}
+
+.portfolio-content{
+    margin-top: 30px;
+}
+
+.portfolio1{
+    float: left;
+}
+
+.portfolio2 .img4 img{
+    margin-left: 175px;
+}
+
+.portfolio3 .img4{
+    float: right;
+    margin-top: -300px;
+    margin-right: 600px;
+}
+
+.portfolio1 h3{
+    font-size: 30px;
+    font-family: cinzel;
+    margin-top: 45px;
+    margin-left: 60px;
+}
+
+.portfolio1 p{
+    font-size: 25px;
+}
+
+.portfolio2 h3{
+    font-size: 30px;
+    font-family: cinzel;
+    margin-top: 45px;
+    margin-left: 30%;
+}
+
+.portfolio2 p{
+    font-size: 25px;
+    margin-left: 25%;
+}
+
+.portfolio3 h3{
+    font-size: 30px;
+    font-family: cinzel;
+    margin-top: 45px;
+    margin-left: 30%;
+}
+
+.portfolio3 p{
+    margin-right: -100px;
+    font-size: 25px;
+    margin-left: 10%;
+    margin-top: 20px;
+}
+
+.benifits{
+    margin-top: 100px;
+}
+
+.working h4{
+    font-size: 23px;
+    margin-top: 20px;
+    font-family: cinzel;
+}
+
+.contact-form{
+    margin-top: 100px;
+    font-size: 27px;
+    font-family: cinzel;
+}
+
+.form{
+    margin-top: 30px;
+}
+
+.form #text{
+    padding: 10px;
+    width: 200px;
+    border-radius: 6px;
+}
+
+.form .msg{
+    height: 50px;
+    width: 100px;
+}
+
+.btn a{
+    padding: 10px;
+    text-decoration: none;
+    font-size: 22px;
+}
+
+.footer {
+    margin-top:150px;
+    background-color: rgb(41, 40, 40);
+}
+
+.footer h2{
+    padding: 20px;
+    text-align: center;
+    color: white;
+    font-family: cinzel;
+}
